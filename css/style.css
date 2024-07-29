@@ -1,0 +1,31 @@
+
+body{
+    background: linear-gradient(to right, #3b134d, #944895);
+}
+
+#field td{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(64, 20, 79);
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.5); /* Чорна тінь з прозорістю 50% */
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+    text-shadow: 2px 2px 4px #ffffff; /* Чорна тінь з відступом 2px, розмиттям 4px */
+   color: rgb(57, 16, 71); /* Колір тексту */      
+}            
+
+ button{
+    background-color: rgb(71, 23, 87);
+    font-size: 18px;
+    color: #fff;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5%;
+    width: 200px;
+    height: 50px;  
+ }
+
+
+  
